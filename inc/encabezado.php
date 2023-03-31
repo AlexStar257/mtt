@@ -17,12 +17,10 @@ const NOMBRE_NEGOCIO = "MTT";
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href="./css/fa.css" rel="stylesheet">
     <script src="./lib/jquery.js"></script>
-    <link rel="stylesheet" href="../css/estilos.css">
-    <!-- <script src="./lib/bootstrap.js"></script> -->
+    <script src="./lib/bootstrap.js"></script>
     <script src="./lib/pnotify.js"></script>
     <script src="./lib/np.js"></script>
     <script src="./js/main.js"></script>
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <meta name="theme-color" content="#009688"/>
 </head>
 <body style="background-color: #fdf5ec;"> 
